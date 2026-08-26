@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1960 560" role="img" aria-labelledby="title desc">
+  <title id="title">Agentic for Spring AI</title>
+  <desc id="desc">Agentic for Spring AI horizontal brand logo.</desc>
+  <g transform="translate(24 24) scale(.5)">
+    <g fill="#14213D">
+      <circle cx="512" cy="176" r="78"/>
+      <circle cx="848" cy="512" r="78"/>
+      <circle cx="512" cy="848" r="78"/>
+      <circle cx="176" cy="512" r="78"/>
+    </g>
+    <g fill="#16A66A">
+      <path d="M512 650c-31 0-56-25-56-56V447c0-31 25-56 56-56s56 25 56 56v147c0 31-25 56-56 56z"/>
+      <path d="M496 507c-104 3-183-59-188-164 103-5 183 57 188 164z"/>
+      <path d="M528 468c6-102 76-169 178-166-3 102-75 169-178 166z"/>
+    </g>
+  </g>
+  <text x="610" y="248" fill="#14213D" font-family="Inter, Arial, sans-serif" font-size="156" font-weight="750" letter-spacing="-5">Agentic</text>
+  <text x="614" y="404" fill="#16A66A" font-family="Inter, Arial, sans-serif" font-size="112" font-weight="650" letter-spacing="-2">for Spring AI</text>
+</svg>
