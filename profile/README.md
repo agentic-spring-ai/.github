@@ -8,7 +8,7 @@ Agentic for Spring AI 提供多智能体编排、图工作流、上下文工程�
 ## 项目
 
 - [agentic-for-spring-ai](https://github.com/agentic-for-spring-ai/agentic-for-spring-ai)：Agent Framework、Graph、Spring Boot Starters、Admin 与示例。
-- [agentic-spring-ai-extensions](https://github.com/agentic-for-spring-ai/agentic-spring-ai-extensions)：模型、向量存储、工具调用、MCP 等生态扩展。
+- [agentic-for-spring-ai-extensions](https://github.com/agentic-for-spring-ai/agentic-for-spring-ai-extensions)：模型、向量存储、工具调用、MCP 等生态扩展。
 
 ## Java 坐标
 
