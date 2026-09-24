@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="assets/agentic-for-spring-ai-logo.svg" alt="Agentic Spring AI" width="720">
-  <p><strong>面向 Spring AI 的 Agentic 应用开发生态</strong></p>
+  <img src="agentic-ai.png" alt="Agentic AI" width="720">
+  <p><strong>面向 Java 生态的 Agentic 应用开发生态</strong></p>
 </div>
 
-Agentic for Spring AI 提供多智能体编排、图工作流、上下文工程、A2A、MCP、模型与向量存储扩展，以及可视化 Agent 管理平台。
+Agentic AI 提供多智能体编排、图工作流、上下文工程、A2A、MCP、模型与向量存储扩展，以及可视化 Agent 管理平台。
 
 ## 项目
 
