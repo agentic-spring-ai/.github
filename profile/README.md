@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="agentic-ai.png" alt="Agentic AI" width="720">
+  <img src="agentic-ai.png" alt="Agentic AI" width="160">
+  <h1>Agentic AI</h1>
   <p><strong>Stateful agent runtime for Java applications.</strong></p>
 </div>
 
