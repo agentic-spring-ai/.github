@@ -1,3 +1,5 @@
-# Agentic for Spring AI 组织主页
+# Agentic AI GitHub Profile
 
-GitHub 组织展示内容位于 [`profile/README.md`](profile/README.md)，品牌素材位于 `profile/assets/`。
+This repository powers the public GitHub organization profile for Agentic AI.
+
+The organization profile content lives in [`profile/README.md`](profile/README.md), and brand assets live in [`profile/`](profile/).
